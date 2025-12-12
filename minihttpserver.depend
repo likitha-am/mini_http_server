@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1758032434 source:c:\users\amlik\onedrive\desktop\unixproject\minihttpserver\hhtp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<winsock2.h>
+	<windows.h>
+
