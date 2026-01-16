@@ -43,12 +43,19 @@ HTTP Protocol Basics
 📂 Project Structure
 mini_http_server/
 ├── main.c
+
 ├── hhtp.c
+
 ├── minihttpserver.cbp
+
 ├── minihttpserver.depend
+
 ├── minihttpserver.layout
+
 ├── bin/
+
 ├── obj/
+
 └── README.md
 
 ## Learning Outcomes
